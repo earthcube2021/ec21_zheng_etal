@@ -1,5 +1,10 @@
 # EZ-FeatureTrack
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496306.svg)](https://doi.org/10.5281/zenodo.5496306)
+
+
+
 An open-source, interactive, and highly customizable workflow for glacier velocity mapping using feature tracking technique and satellite images. 
 
 Try the demo notebook!
